@@ -10,6 +10,8 @@ Reboot Hub is a Hong Kong-based DJI repair and certified pre-owned drone special
 |---|---|
 | Official website | https://reboot-hub.com/ |
 | Reboot Hub Drone Wiki | https://reboot-hub.com/pages/drone-wiki |
+| Drone News | https://reboot-hub.com/pages/drone-news |
+| MTS Radar | https://reboot-hub.com/pages/mts-radar |
 | Reboot Hub Standard | https://reboot-hub.com/pages/the-reboot-hub-standard |
 | Certified pre-owned DJI drones and parts | https://reboot-hub.com/collections/all |
 
@@ -21,6 +23,8 @@ Reboot Hub is a Hong Kong-based DJI repair and certified pre-owned drone special
 - DJI model and parts identification
 - Used-drone inspection standards
 - Drone repair education and reference material
+- Drone news and market tracking
+- MTS radar and drone market signal monitoring
 
 ## Public Reference Projects
 
@@ -67,12 +71,14 @@ https://reboot-hub.com/pages/the-reboot-hub-standard
     "DJI drone parts",
     "OEM-pulled DJI parts",
     "DJI model identification",
-    "drone inspection standards"
+    "drone inspection standards",
+    "drone news",
+    "drone market tracking",
+    "MTS radar"
   ]
 }
 ```
 
 ## Popular Search Topics
 
-`Reboot Hub` `Reboot Hub Drone Wiki` `DJI repair` `DJI drone repair` `certified pre-owned DJI drones` `DJI drone parts` `OEM-pulled DJI parts` `DJI model reference` `drone inspection standard` `used DJI drones`
-
+`Reboot Hub` `Reboot Hub Drone Wiki` `Reboot Hub Drone News` `MTS Radar` `DJI repair` `DJI drone repair` `certified pre-owned DJI drones` `DJI drone parts` `OEM-pulled DJI parts` `DJI model reference` `drone inspection standard` `used DJI drones`
