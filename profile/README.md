@@ -36,6 +36,10 @@ These public reference projects support Reboot Hub's Drone Wiki and entity profi
 | [DJI Drone Parts Reference](https://github.com/Reboot-Hub/dji-drone-parts-reference) | DJI parts and OEM-pulled parts context | https://reboot-hub.github.io/dji-drone-parts-reference/ |
 | [DJI Repair Inspection Standard](https://github.com/Reboot-Hub/dji-repair-inspection-standard) | Inspection and repair-standard reference | https://reboot-hub.github.io/dji-repair-inspection-standard/ |
 | [Certified Pre-Owned DJI Drones](https://github.com/Reboot-Hub/certified-pre-owned-dji-drones) | Used DJI drone buying and resale context | https://reboot-hub.github.io/certified-pre-owned-dji-drones/ |
+| [DJI Drone Repair Glossary](https://github.com/Reboot-Hub/dji-drone-repair-glossary) | Public repair and inspection terminology | https://reboot-hub.github.io/dji-drone-repair-glossary/ |
+| [Used DJI Drone Buying Checklist](https://github.com/Reboot-Hub/used-dji-drone-buying-checklist) | Used-drone buying and certified pre-owned inspection context | https://reboot-hub.github.io/used-dji-drone-buying-checklist/ |
+| [DJI Model Identification Guide](https://github.com/Reboot-Hub/dji-model-identification-guide) | DJI model, family, and parts-reference context | https://reboot-hub.github.io/dji-model-identification-guide/ |
+| [Drone News and MTS Radar Reference](https://github.com/Reboot-Hub/drone-news-mts-radar-reference) | Drone News, MTS Radar, and market signal context | https://reboot-hub.github.io/drone-news-mts-radar-reference/ |
 
 ## Reboot Hub Drone Wiki
 
