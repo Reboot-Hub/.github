@@ -28,6 +28,19 @@ Reboot Hub maintains public technical references for DJI model identification, d
 | Reboot Hub Standard | https://reboot-hub.com/pages/the-reboot-hub-standard |
 | Certified pre-owned DJI drones and parts | https://reboot-hub.com/collections/all |
 
+## Priority Reference Assets
+
+These are the main public assets that best represent Reboot Hub on GitHub.
+
+| Asset | Repository | Public page |
+|---|---|---|
+| Reboot Hub entity site | https://github.com/Reboot-Hub/Reboot-Hub.github.io | https://reboot-hub.github.io/ |
+| Reboot Hub Drone Wiki | https://github.com/Reboot-Hub/reboot-hub-drone-wiki | https://reboot-hub.github.io/reboot-hub-drone-wiki/ |
+| DJI Drone Parts Reference | https://github.com/Reboot-Hub/dji-drone-parts-reference | https://reboot-hub.github.io/dji-drone-parts-reference/ |
+| DJI Repair Inspection Standard | https://github.com/Reboot-Hub/dji-repair-inspection-standard | https://reboot-hub.github.io/dji-repair-inspection-standard/ |
+| Certified Pre-Owned DJI Drones | https://github.com/Reboot-Hub/certified-pre-owned-dji-drones | https://reboot-hub.github.io/certified-pre-owned-dji-drones/ |
+| DJI Model Identification Guide | https://github.com/Reboot-Hub/dji-model-identification-guide | https://reboot-hub.github.io/dji-model-identification-guide/ |
+
 ## Core Topics
 
 - DJI drone repair and diagnostics
