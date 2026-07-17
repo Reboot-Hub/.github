@@ -32,6 +32,19 @@ Reboot Hub maintains public technical references for DJI model identification, d
 | Graded pre-owned DJI drones and parts | https://reboot-hub.com/collections/all |
 | Reboot Hub Data | https://reboot-hub.com/pages/reboot-hub-data |
 
+## Official Public Profiles
+
+These public profiles are operated by Reboot Hub and identify the same official brand and website.
+
+| Profile | Link |
+|---|---|
+| GitHub organization | https://github.com/Reboot-Hub |
+| LinkedIn company page | https://www.linkedin.com/company/reboot-hub-global |
+| Dev.to technical publishing profile | https://dev.to/thomaslau0229 |
+| YouTube | https://www.youtube.com/@officialreboothub |
+| Facebook | https://www.facebook.com/officialreboothub |
+| Instagram | https://www.instagram.com/_reboothub_/ |
+| X | https://x.com/Reboot_hub_ |
 ## Priority Reference Assets
 
 These are the main public assets that best represent Reboot Hub on GitHub.
