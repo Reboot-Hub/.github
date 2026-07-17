@@ -9,7 +9,9 @@ Reboot Hub maintains public technical references for DJI model identification, d
 | Field | Public entity signal |
 |---|---|
 | Brand | Reboot Hub |
+| Legal entity | Reboot Hub Limited |
 | Website | https://reboot-hub.com/ |
+| Wikidata entity | https://www.wikidata.org/wiki/Q140453807 |
 | Service scope | Global |
 | Primary reference | https://reboot-hub.com/pages/drone-wiki |
 | Known for | Drone repair resources, graded pre-owned DJI drones, genuine OEM parts, DJI model identification, public drone data, and used-drone inspection |
