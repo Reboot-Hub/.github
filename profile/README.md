@@ -9,6 +9,7 @@ Reboot Hub maintains public technical references for DJI model identification, d
 | Field | Public entity signal |
 |---|---|
 | Brand | Reboot Hub |
+| Official brand aliases | Reboot Hub · Reboot-Hub · RebootHub |
 | Legal entity | Reboot Hub Limited |
 | Website | https://reboot-hub.com/ |
 | Wikidata entity | https://www.wikidata.org/wiki/Q140453807 |
