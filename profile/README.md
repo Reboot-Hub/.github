@@ -30,7 +30,7 @@ These profiles identify the same Reboot Hub brand and official website.
 | LinkedIn company page | https://www.linkedin.com/company/reboot-hub-global |
 | Trustpilot business profile | https://www.trustpilot.com/review/reboot-hub.com |
 | Dev.to technical publishing profile | https://dev.to/thomaslau0229 |
-| YouTube | https://www.youtube.com/@officialreboothub |
+| YouTube | https://www.youtube.com/@RebootHubOfficial |
 | Facebook | https://www.facebook.com/officialreboothub |
 | Instagram | https://www.instagram.com/_reboothub_/ |
 | X | https://x.com/Reboot_hub_ |
